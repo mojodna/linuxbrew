@@ -12,6 +12,7 @@ Installation
  ```sh
  export PATH=~/.linuxbrew/bin:$PATH
  export LD_LIBRARY_PATH=~/.linuxbrew/lib
+ export HOMEBREW_CACHE=/app/linuxbrew/Cache
  ```
 
 * `brew install $WHATEVER_YOU_WANT`
