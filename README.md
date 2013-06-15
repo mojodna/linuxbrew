@@ -5,7 +5,7 @@ An experimental fork of Homebrew for Linux.
 Installation
 ------------
 
-* Debian or Ubuntu: `sudo apt-get install build-essential curl git ruby`
+* Debian or Ubuntu: `sudo apt-get install build-essential curl git ruby libopenssl-ruby`
 * `git clone https://github.com/Homebrew/linuxbrew.git ~/.linuxbrew`
 * Add to your `.bashrc`:
 
